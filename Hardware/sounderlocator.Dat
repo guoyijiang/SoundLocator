@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~188|Field=Designator~String~Designator~188|Field=Footprint~String~Footprint~103|Field=Quantity~Integer~Quantity~271|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~sounderlocator.PrjPcb|ReportField=ProjectFullPath~D:\Projects\sounderlocator\HardProj\sounderlocator.PrjPcb|ReportField=Title~Bill of Materials For Project [sounderlocator.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~70|ReportField=ReportTime~19:22:08|ReportField=ReportDate~2017/12/19|ReportField=ReportDateTime~2017/12/19 19:22:08|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~sounderlocator.PrjPcb|ReportField=DataSourceFullPath~D:\Projects\sounderlocator\HardProj\sounderlocator.PrjPcb
+Cap|C1, C2, C3, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21|CAPC1608N|19
+Ta|C4, C5|CAPC1608N|2
+LED2|D1, D2, D3, D4, D5, D6, D7, D8, D9, D10|CD1608-0603|10
+Mic2|MK1, MK2, MK3|MK|3
+source|P1|HDR1X2|1
+uart|P2|HDR1X4|1
+icsp|P3|HDR1X6|1
+QNPN|Q1, Q2, Q3|SOT-23B_N|3
+Res1|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25|RESC1608N|25
+SW-SPST|S1|sw|1
+rt9193-33GB|U1|SOT23-5_N|1
+pic32mx250f128b-SPDIP|U2|DIP-28|1
+ref3325-SOT23-3|U3|SOT23-3|1
+XTAL|Y1|XTAL|1
