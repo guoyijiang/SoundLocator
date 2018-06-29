@@ -10,4 +10,4 @@ Date: 2017.12
 
 ## 系统
 
-![sys](D:\Repositories\SoundLocator\sys.png)
+![sys](.\sys.png)
