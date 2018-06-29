@@ -10,4 +10,4 @@ Date: 2017.12
 
 ## 系统
 
-![sys](.\sys.png)
+![sys](https://raw.githubusercontent.com/guoyijiang/SoundLocator/master/sys.png)
